@@ -72,4 +72,5 @@ source 'https://rails-assets.org' do
 end
 gem 'figaro'
 gem 'fog-aws'
-gem "mini_magick"
+gem 'mini_magick'
+gem 'carrierwave-aws'
